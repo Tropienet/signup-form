@@ -1,0 +1,69 @@
+body{
+    background-color: #ECEEF1;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    background-color: white;
+    align-self: center;
+    border: solid black 1px;
+    width: 550px;
+    height: 450px;
+}
+
+label{
+    width: 100%;
+    margin: 10px;
+}
+
+input{
+    width: 500px;
+    margin: 10px;
+}
+
+footer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in-button{
+    color: white;
+    background-color: #0077C5;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+}
+
+.forgot-ID-password{
+    font-size: 13px;
+}
+
+.page-name{
+    margin-left: 780px;
+}
+
+.privacy{
+    margin: 0px 15px;
+}
+
+.create-account{
+    background-color: #0077C5;
+    color: white;
+}
+
+.terms{
+    margin-left: 50px;
+    font-size: 12px;
+}
